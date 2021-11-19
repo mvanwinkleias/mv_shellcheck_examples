@@ -1,0 +1,6 @@
+	line 1 (tab before)
+line 2 (tab after)	
+line 3 (spaces after)  
+  line 4 (spaces before)
+
+line 6 (newline before)
